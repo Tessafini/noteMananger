@@ -1,0 +1,12 @@
+D:\Litvinova\WFA\NoteMananger\NoteMananger\bin\Debug\NoteMananger.exe.config
+D:\Litvinova\WFA\NoteMananger\NoteMananger\bin\Debug\NoteMananger.exe
+D:\Litvinova\WFA\NoteMananger\NoteMananger\bin\Debug\NoteMananger.pdb
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.csprojResolveAssemblyReference.cache
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Form1.resources
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Form2.resources
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Form3.resources
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Form4.resources
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Properties.Resources.resources
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.csproj.GenerateResource.Cache
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.exe
+D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.pdb
