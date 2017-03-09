@@ -10,3 +10,15 @@ D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.Properties.Res
 D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.csproj.GenerateResource.Cache
 D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.exe
 D:\Litvinova\WFA\NoteMananger\NoteMananger\obj\Debug\NoteMananger.pdb
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\bin\Debug\NoteMananger.exe.config
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.exe
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.pdb
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\bin\Debug\NoteMananger.exe
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\bin\Debug\NoteMananger.pdb
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.csprojResolveAssemblyReference.cache
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.Form1.resources
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.Form2.resources
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.Form3.resources
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.Form4.resources
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.Properties.Resources.resources
+Y:\Группы\9П2\Litvinova\noteMananger\NoteMananger\obj\Debug\NoteMananger.csproj.GenerateResource.Cache
